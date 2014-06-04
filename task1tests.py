@@ -1,4 +1,4 @@
-import task1.py
+import task1
 import unittests
 
 class TestSequenceFunctions(unittest.TestCase):
